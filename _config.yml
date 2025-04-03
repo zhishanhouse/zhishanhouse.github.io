@@ -1,7 +1,7 @@
 name: "至善书院"
 description: "至善书院"
 
-avatar: https://Ray2008y.github.io/images/avatar.jpg
+avatar: https://zhishanhouse.github.io/images/avatar.jpg
 #favicon: 
 
 navigation:
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2025 ZhiShanHouse
 
-url: https://Ray2008y.github.io
+url: https://zhishanhouse.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
