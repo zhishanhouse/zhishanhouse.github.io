@@ -2,7 +2,7 @@ name: "至善书院"
 description: "至善书院"
 
 avatar: https://zhishanhouse.github.io/images/avatar.jpg
-#favicon: 
+favicon: https://zhishanhouse.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
