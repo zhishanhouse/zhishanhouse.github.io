@@ -565,10 +565,10 @@ nav {
     float: left;
     width: 50%;
     a {
-      color: $base-lighten-color;
+      color: $oc-violet-7;
       border: 1px solid $divider-color;
       padding: 10px 20px;
-      background: $background-color;
+      background: $oc-grey-3;
 
       &:hover, &:focus {
         color: $link-lighten-color;
@@ -583,10 +583,10 @@ nav {
     text-align: right;
     width: 50%;
     a {
-      color: $base-lighten-color;
+      color: $oc-violet-7;
       border: 1px solid $divider-color;
       padding: 10px 20px;
-      background: $background-color;
+      background: $oc-grey-3;
 
       &:hover, &:focus {
         color: $link-lighten-color;
