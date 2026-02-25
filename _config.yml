@@ -1,8 +1,8 @@
 name: "至善书院"
 description: "至善书院"
 
-avatar: https://zs.funmc.cc/images/avatar.jpg
-favicon: https://zs.funmc.cc/images/favicon.ico
+avatar: /images/avatar.jpg
+favicon: /images/favicon.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2025 ZhiShanHouse
 
-url: https://zs.funmc.cc
+url: 
 
 permalink: /:title/
 paginate_path: /page:num/
