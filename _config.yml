@@ -1,8 +1,8 @@
 name: "至善书院"
 description: "至善书院"
 
-avatar: https://zhishan.github.io/images/avatar.jpg
-favicon: https://zhishan.github.io/images/favicon.ico
+avatar: https://zhishanhouse.github.io/images/avatar.jpg
+favicon: https://zhishanhouse.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2025 ZhiShanHouse
 
-url: https://zhishan.github.io
+url: https://zhishanhouse.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
